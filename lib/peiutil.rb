@@ -1,5 +1,5 @@
 require "peiutil/version"
 
 module Peiutil
-  # Your code goes here...
+  PEI_MAGIC = 'VZL\x01'.freeze
 end
