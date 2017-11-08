@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75f81d0-39d1-4b2c-baf9-3e84debc7730" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/boot.te" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/peiutil/pe_writer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/peiutil/pei_reader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/peiutil/te_header.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/pei_reader_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/peiutil.iml" afterPath="$PROJECT_DIR$/.idea/peiutil.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exe/peiutil" afterPath="$PROJECT_DIR$/exe/peiutil" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/peiutil.rb" afterPath="$PROJECT_DIR$/lib/peiutil.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peiutil.gemspec" afterPath="$PROJECT_DIR$/peiutil.gemspec" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +16,8 @@
       <file leaf-file-name="peiutil.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/peiutil.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+            <state relative-caret-position="570">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -198,12 +189,12 @@
       <workItem from="1510031855883" duration="9000" />
       <workItem from="1510108313032" duration="3036000" />
       <workItem from="1510119441143" duration="35000" />
-      <workItem from="1510119488431" duration="161000" />
+      <workItem from="1510119488431" duration="226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4496000" />
+    <option name="totallyTimeSpent" value="4561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="67" width="1680" height="982" extended-state="0" />
@@ -457,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/peiutil.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        <state relative-caret-position="570">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
